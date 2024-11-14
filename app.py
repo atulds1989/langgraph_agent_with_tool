@@ -13,11 +13,11 @@ from dotenv import load_dotenv
 
 # Initialize Streamlit app with a title and introduction
 st.set_page_config(page_title="LangGraph Chatbot", page_icon="💬", layout="centered")
-# st.title("💬 Langchain Tool-Based Chatbot")
+# st.title("💬 LangGraph Tool-Based Chatbot")
 
 # Streamlit interface
 st.markdown(
-    "<h3 style='text-align: center; color: #333;'>💬 Langchain Tool-Based Chatbot</h3>",
+    "<h3 style='text-align: center; color: #333;'>💬 LangGraph Tool-Based Chatbot</h3>",
     unsafe_allow_html=True,
 )
 
