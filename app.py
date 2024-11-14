@@ -12,7 +12,7 @@ import os
 from dotenv import load_dotenv
 
 # Initialize Streamlit app with a title and introduction
-st.set_page_config(page_title="Langchain Chatbot", page_icon="💬", layout="centered")
+st.set_page_config(page_title="LangGraph Chatbot", page_icon="💬", layout="centered")
 # st.title("💬 Langchain Tool-Based Chatbot")
 
 # Streamlit interface
